@@ -1,0 +1,45 @@
+.profile{
+    background-color: whitesmoke;
+    height: 84vh;
+    padding: 20px;
+}
+
+.profile-photo-area{
+    height: 32%;
+    width: 70%;
+    background-color: #fbfcff;
+    padding: 25px;
+}
+
+.profile-dashed-border{
+    width: 95%;
+    height: 74%;
+    background-color: white;
+    padding: 20px;
+    border: 1px dashed #ceb8b8;
+    border-radius: 9px;
+    display: flex;
+}
+
+.photo{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    /* border: 1px solid black; */
+}
+
+.profile-text{
+    display: inline;
+    margin-left: 40px;
+}
+
+.add{
+    font-size: 27px;
+    font-weight: 700;
+    color: #3a3a3a;
+}
+
+.drag{
+    font-size: 24px;
+    color: #a59c9c;
+}
